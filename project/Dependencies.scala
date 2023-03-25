@@ -31,7 +31,8 @@ object Dependencies {
     "org.http4s"                 %% "http4s-dsl"           % V.http4sVersion,
     "org.http4s"                 %% "http4s-blaze-server"  % V.http4sVersion,
     "org.http4s"                 %% "http4s-blaze-client"  % V.http4sVersion,
-
+    "org.http4s"                 %% "http4s-ember-client"  % V.http4sVersion,
+    "org.http4s"                 %% "http4s-ember-server"  % V.http4sVersion,
     "org.http4s"                 %% "http4s-circe"         % V.http4sVersion,
     "io.circe"                   %% "circe-literal"        % V.circe,
 
